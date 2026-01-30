@@ -31,7 +31,7 @@
   - GET /articles — список статей (id, title, content)
   - GET /articles/:id — детали статьи
   - DELETE /articles/:id — удаление статьи
-- Клиент для API сгенерирован через [openapi-ts](http://openapi-ts.dev)
+- Клиент для API сгенерирован через [Hey API](https://heyapi.dev/)
 - Роутинг выполнен с использованием [TanStack Router](https://tanstack.com/router) с роутами:
   - / (список статей)
   - /articles/:id (страница статьи)
